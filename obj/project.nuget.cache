@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4QzifnE5oQ=",
+  "success": true,
+  "projectFilePath": "/Users/lucabex/Desktop/gitTest/auth4/auth4.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucabex/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/Users/lucabex/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
